@@ -6,7 +6,7 @@
 - Name: Keith Lawrence A. Gargar
 - Course: BSCS-AI
 - Section: 09282
-- GitHub Username: [Your Username]
+- GitHub Username: GARGAR-eng
 
 ## Laboratory Activities
 - Lab 1: Environment Onboarding
